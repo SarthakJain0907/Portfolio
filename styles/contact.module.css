@@ -1,0 +1,40 @@
+.mainDiv{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.instaHead{
+    color:black;
+    transition: color 0.1s ease-in-out;
+    text-decoration: none;
+} 
+
+.twitHead{
+    color:black;
+    transition: color 0.1s ease-in-out;
+    text-decoration: none;
+} 
+
+.linkHead{
+    color:black;
+    transition: color 0.1s ease-in-out;
+    text-decoration: none;
+}
+
+.instaHead:hover{
+    background: -webkit-linear-gradient(#513ecb, #ab269e, #e92f39, #f2b750);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.twitHead:hover{
+    color:#1d9bf0;
+    text-decoration: none;
+}
+
+.linkHead:hover{
+    color:#0b66c2;
+    text-decoration: none;
+}

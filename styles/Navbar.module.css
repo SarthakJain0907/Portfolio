@@ -1,0 +1,25 @@
+.navbar {
+    display:flex;
+    justify-items: center;
+    width:100%;
+    margin-bottom:5%;
+}
+
+.card{
+    width:100%;
+    display: flex;
+    justify-items: center;  
+}
+
+.navLinks{
+    font-size:1.2em;
+    color:black;
+}
+
+.navLinks:hover {
+    text-decoration: underline;
+}
+
+.card:hover{
+    text-decoration: none;
+}
