@@ -8,7 +8,7 @@ export default function FirstPost(){
     return (
         <Layout>
             <Head>
-                <title>work</title>
+                <title>Work</title>
             </Head>
         
             <h1 className={stylesWork.heading}>Schoohouse.World, Tutor</h1>
