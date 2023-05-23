@@ -11,7 +11,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>I am interested in Mathematics, Web Development, tennis, and pretty much anything that comes my way.</p>
       </section>
     </Layout>
   );
