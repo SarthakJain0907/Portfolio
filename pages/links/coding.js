@@ -1,7 +1,7 @@
 import Link from "next/link"
 import Head from "next/head"
-import Layout from '../../components/layout'
-import stylesCode from '../../styles/coding.module.css'
+import Layout from '/components/layout'
+import stylesCode from '/styles/coding.module.css'
 
 
 export default function FirstPost(){
@@ -29,7 +29,7 @@ export default function FirstPost(){
                     </ul>
                 </div>
                 <div className={stylesCode.card}>
-                    <h2 className={stylesCode.cardHead}>I'm learning</h2>
+                    <h2 className={stylesCode.cardHead}>I&apos;m learning</h2>
                     <ul className={stylesCode.cardItems}>
                         <li>Data Analytics through Python</li>
                     </ul>
