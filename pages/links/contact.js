@@ -8,7 +8,7 @@ export default function FirstPost(){
     return (
         <Layout>
             <Head>
-                <title>work</title>
+                <title>Contact Me</title>
             </Head>
             <div className={styleCon.mainDiv}>
                 <h1><Link href="https://www.instagram.com/sarclyf/" className={styleCon.instaHead}>Instagram</Link></h1>
