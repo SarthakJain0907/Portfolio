@@ -14,7 +14,6 @@ export default function FirstPost(){
             <h1 className={stylesWork.heading}>Schoohouse.World, Tutor</h1>
             <ul>
                 <li>Certifications: Pre-Algebra, Algebra 1, Sat Math.</li>
-                <li>I have hosted 27 sessions, tutoring 34 learners from 7 different countries. My tutoring minutes are 1865.</li>
                 <li>My most common feedbacks are: &apos;Friendly&apos;, &apos;Patient&apos;, &apos;Interactive&apos; and &apos;Good Explanations&apos;.</li>
                 <li>Schoolhouse Profile: <a href='https://schoolhouse.world/u/19943'>here</a></li>
             </ul>
