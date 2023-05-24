@@ -15,8 +15,8 @@ export default function FirstPost(){
                 <div className={stylesCode.card}>
                     <h2 className={stylesCode.cardHead}>Web dev</h2>
                     <ul className={stylesCode.cardItems}>
-                        <li>HTML</li>
-                        <li>CSS</li>
+                        <Link href="https://replit.com/@sarclyf?path=folder/HTML%2CCSS%2CJS" className={stylesCode.listItems}><li>HTML</li><Link>
+                        <Link href="https://replit.com/@sarclyf?path=folder/HTML%2CCSS%2CJS" className={stylesCode.listItems}><li>CSS</li></Link>
                         <Link href="https://replit.com/@sarclyf?path=folder/HTML%2CCSS%2CJS" className={stylesCode.listItems}><li>Javascript</li></Link>
                         <li>PHP</li>
                         <li>MySql</li>
@@ -25,7 +25,7 @@ export default function FirstPost(){
                 <div className={stylesCode.card}>
                     <h2 className={stylesCode.cardHead}>Programming</h2>
                     <ul className={stylesCode.cardItems}>
-                        <li>Python</li>
+                        <Link href="https://replit.com/@sarclyf?path=folder/Python" className={stylesCode.listItems}><li>Python</li></Link>
                     </ul>
                 </div>
                 <div className={stylesCode.card}>
