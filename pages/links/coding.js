@@ -17,7 +17,7 @@ export default function FirstPost(){
                     <ul className={stylesCode.cardItems}>
                         <li>HTML</li>
                         <li>CSS</li>
-                        <Link href="https://replit.com/@sarclyf?path=folder/HTML%2CCSS%2CJS"><li>Javascript</li></Link>
+                        <Link href="https://replit.com/@sarclyf?path=folder/HTML%2CCSS%2CJS" className={stylesCode.listItems}><li>Javascript</li></Link>
                         <li>PHP</li>
                         <li>MySql</li>
                     </ul>
