@@ -30,13 +30,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
           <Navbar/>
-            <Image
-              priority
-              src="/pages/profile.jpg"
-              height={144}
-              width={144}
-              alt=""
-            />
+            <img src="/pages/profile.jpg"/>
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
         ) : (
