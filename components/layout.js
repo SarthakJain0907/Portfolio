@@ -26,7 +26,7 @@ export default function Layout({ children, home }) {
           <Navbar/>
             <Image
               priority
-              src="/pages/links/profile.jpg"
+              src="/profile.jpg"
               height={144}
               width={144}
               alt=""
