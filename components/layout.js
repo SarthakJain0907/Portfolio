@@ -25,6 +25,7 @@ export default function Layout({ children, home }) {
           <>
           <Navbar/>
             <Image
+              className={styles.profile_image}
               priority
               src="/profile.jpg"
               height={144}
