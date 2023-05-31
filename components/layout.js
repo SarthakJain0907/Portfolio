@@ -27,7 +27,7 @@ export default function Layout({ children, home }) {
             <Image
               className={styles.profile_image}
               priority
-              src="/profile.jpg"
+              src="/IMG-3685-modified.png"
               height={144}
               width={144}
               alt=""
