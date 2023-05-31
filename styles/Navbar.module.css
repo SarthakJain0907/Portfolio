@@ -23,3 +23,10 @@
 .card:hover{
     text-decoration: none;
 }
+
+@media screen and (max-width: 477px) {
+    .navLinks{
+        font-size:1em;
+        color:black;
+    }   
+}
