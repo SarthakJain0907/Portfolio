@@ -31,9 +31,12 @@
 }
 
 @media screen and (max-width: 477px) {
-      .row_main{
-        display:flex;
-        flex-direction: column;
-        width:100%;
+    .intro{
+        font-size: 0.6em;
+    }
+    .cardHead{
+        align-self: center;
+        font-size:1em;
+
     }
 }
