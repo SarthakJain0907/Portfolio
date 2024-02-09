@@ -15,7 +15,7 @@ export default function FirstPost(){
             <ul>
                 <li>Certifications: Pre-Algebra, Algebra 1, Sat Math.</li>
                 <li>My most common feedbacks are: &apos;Friendly&apos;, &apos;Patient&apos;, &apos;Interactive&apos; and &apos;Good Explanations&apos;.</li>
-                <li>Schoolhouse Profile: <a href='https://schoolhouse.world/u/19943'>here</a></li>
+                <li>Schoolhouse Profile: <a href='https://schoolhouse.world/transcript/1f5dc682-f02f-4986-939c-14aae81eda3e'>here</a></li>
             </ul>
             <h1 className={stylesWork.heading}>Hemingwayd, Co-founder & Head of Technology</h1>
             <ul>
