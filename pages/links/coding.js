@@ -26,12 +26,7 @@ export default function FirstPost(){
                     <h2 className={stylesCode.cardHead}>Programming</h2>
                     <ul className={stylesCode.cardItems}>
                         <Link href="https://replit.com/@sarclyf?path=folder/Python" className={stylesCode.listItems}><li>Python</li></Link>
-                    </ul>
-                </div>
-                <div className={stylesCode.card}>
-                    <h2 className={stylesCode.cardHead}>I&apos;m learning</h2>
-                    <ul className={stylesCode.cardItems}>
-                        <li>Data Analytics through Python</li>
+                        <li>Data Analytics with Python</li>
                     </ul>
                 </div>
             </div>
